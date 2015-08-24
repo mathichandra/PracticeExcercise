@@ -1,4 +1,4 @@
-package com.dynamicprograming;
+package com.algorithm.dynamicprograming;
 
 import sun.security.util.Length;
 
